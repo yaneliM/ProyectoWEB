@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://cdn3.vectorstock.com/i/1000x1000/24/62/seamless-pattern-with-happy-fruits-cute-background-vector-6492462.jpg);
+}
+
+
+.alimentacion{
+    background-color: rgb(71, 185, 170); 
+    margin: 5rem 5rem 5rem 5rem;
+    border-radius: 1rem;
+    color:white;
+    font-family: 'Anton', sans-serif;
+}
+
+#tituloAlimentacion{
+    text-align: center;
+}
+
+#imgManz{
+    width: 25%;
+    height: 25%;
+    padding: 3rem 0rem 0rem 2rem;
+}
+
+#informacionManzana{
+    position: absolute;
+    text-align: center;
+    padding: 6rem 6rem 0rem 36rem;
+}

@@ -1,0 +1,78 @@
+body{
+  background: #f7f7f7;
+}
+.init{
+    padding-left: 0rem;
+    margin: 0rem 0rem 0rem 0rem;
+    background: #76E14B;
+
+}
+#Indx-foot{
+    background: black;
+    color: white;
+    text-align: center;
+}
+.init .DescargaBtn {
+    position: absolute;
+    margin-top: -10%;
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #fff;
+    color: rgb(58, 58, 58);
+    font-size: 1.5rem;
+    padding: 2% 2%;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    font-family: 'Lato', sans-serif;
+  }
+
+  .init .DescargaBtn:hover {
+    background-color: #F58516;
+  }
+  .secondPartTitle{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    padding: 1rem 0rem 1rem 0rem;
+  }
+  .secondPart{
+      background: #FFF;
+      margin: 0rem 5rem 0rem 5rem;
+      
+      
+  }
+
+  .thirdPartTitle{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    padding: 1rem 0rem 1rem 0rem;
+  }
+
+  #textDivierte{
+    color: #FFF;
+    padding-top: 2rem; 
+    text-align: center;
+    text-transform: uppercase;
+  }
+  #textoJuego{
+      text-align: center;
+      margin: 5rem 5rem 0rem 36rem;
+ 
+  }
+
+  #bananaGif{
+    transform: translate(30%, -50%);
+      width: 23%;
+      height: 23%;
+      
+  }
+
+  #piePagina{
+      padding-top:.5rem;
+      background: black;
+      color:white;
+      padding-bottom: .6rem;
+      text-align: center;
+      line-height: 5px;
+  }
